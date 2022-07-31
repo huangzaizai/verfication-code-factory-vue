@@ -1,0 +1,58 @@
+{
+  "id": "3419402",
+  "name": "滑动拼图验证码",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7450652",
+      "name": "验证码",
+      "font_class": "verify",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "8453429",
+      "name": "成功",
+      "font_class": "success",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "1727523",
+      "name": "304错误、关闭、取消",
+      "font_class": "error",
+      "unicode": "e8e7",
+      "unicode_decimal": 59623
+    },
+    {
+      "icon_id": "706576",
+      "name": "旋转",
+      "font_class": "rotate",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "24218772",
+      "name": "右箭头,指向右箭头",
+      "font_class": "arrow-right",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "201575",
+      "name": "3.1-疑问",
+      "font_class": "question",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1305479",
+      "name": "刷新",
+      "font_class": "refresh",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    }
+  ]
+}
